@@ -1,0 +1,40 @@
+# Getting Started Exercises with TypeScript and Node.js
+
+This repository contains a set of beginner-level exercises aimed at helping students get started with TypeScript and Node.js. These exercises cover fundamental concepts in web development and artificial intelligence engineering. Below is a brief overview of each exercise:
+
+1. **Installations**: Instructions for installing Node.js, TypeScript, and Visual Studio Code.
+
+2. **Personal Message**: Store a person’s name in a variable and print a personalized message.
+
+3. **Name Cases**: Store a person’s name in a variable and print it in lowercase, uppercase, and titlecase.
+
+4. **Famous Quote**: Print a famous quote along with its author's name.
+
+5. **Famous Quote 2**: Repeat Exercise 4, storing the famous person’s name in a variable and composing a message.
+
+6. **Stripping Names**: Print a person’s name with whitespace characters and then print it after stripping the whitespaces.
+
+7. **Number Eight**: Write operations resulting in the number 8 for addition, subtraction, multiplication, and division.
+
+8. **Four Lines**: Print four lines with the number 8 appearing once on each line.
+
+9. **Favorite Number**: Store your favorite number in a variable and print a message revealing it.
+
+10. **Adding Comments**: Add comments to two programs or add your name and the current date to simple programs.
+
+...and so on until Exercise 45.
+
+To get started:
+
+1. Fork this repository.
+2. Clone it to your local machine.
+3. Create a new folder for each exercise to keep them organized.
+4. Complete each exercise as per the instructions.
+5. Commit your changes and push them to your forked repository.
+6. Once finished, submit the URL of your repository.
+
+For more details, refer to each exercise's description in the README.md file.
+
+**Join me on Linkedin:** [Linkedin](www.linkedin.com/in/shehbazniazi)
+
+
